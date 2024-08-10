@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI ScoreText;
     public TextMeshProUGUI GameOverText;
     public TextMeshProUGUI LivesText;
-    //test commentary
+    
     public Button RestartButton;
     public GameObject TitleScreen;
     public GameObject PauseScreen;
